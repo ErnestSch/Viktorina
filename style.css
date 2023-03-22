@@ -1,4 +1,6 @@
-body { background: url(space_stars_galaxy_nebula-1918233.jpg!d) center 100%/100% no-repeat fixed }
+body { background: url(space_stars_galaxy_nebula-1918233.jpg!d) 
+/*   center 100%/100% no-repeat fixed  */
+}
 h1 {color: rgb(0, 255, 234);}
 h2 {color: rgb(0, 255, 234);}
 h3 {color: rgb(0, 255, 234);}
